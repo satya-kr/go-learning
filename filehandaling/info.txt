@@ -1,0 +1,2 @@
+here is some information
+here is another way to write data into file
